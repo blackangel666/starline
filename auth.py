@@ -102,10 +102,10 @@ def slapi_auth(slapi_url, slid_token):
 
 def main():
     ### Входные данные ###
-    app_secret = "Tac91CA363c6951251713c4Y1dc517EF"       # Пароль приложения
+    app_secret = "123456789"       # Пароль приложения
     app_id = 15                                           # ID приложения
-    login = "shafeev@starline.ru"                         # Логин аккаунта
-    password = "1234Qwer"                                 # Пароль аккаунта
+    login = "1234567890"                         # Логин аккаунта
+    password = "123456789"                                 # Пароль аккаунта
     sid_url = 'https://branch-x96-id.starline.ru/apiV3/'  # URL StarLineID сервера
     slapi_url = 'https://branch-x96-slnet.starline.ru/'   # URL StarLineAPI сервера
 
